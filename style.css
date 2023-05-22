@@ -207,7 +207,7 @@ section {
   transform: translateY(100px);
 }
 
-.card_content h3 {
+.card_content h3 a {
   text-align: center;
   color: black;
 }
